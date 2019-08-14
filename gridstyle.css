@@ -1,5 +1,13 @@
 #header
 {
-	background: url("https://www.tutorialchip.com/wp-content/uploads/2011/10/Ornate-Gray-520x270.jpg");
+	background: url("https://image.freepik.com/vetores-gratis/fundo-escuro-padrao-metalico_293-1013.jpg");
 	/*background: url("https://www.tutorialchip.com/wp-content/uploads/2011/10/Ornate-Gray-520x270.jpg") center center / cover no-repeat;*/
+}
+shadowWhite	{
+	text-shadow:
+    1px  1px 2px black,
+    1px -1px 2px black,
+   -1px  1px 2px black,
+   -1px -1px 2px black;
+
 }
